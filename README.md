@@ -15,3 +15,9 @@ Based on total summary, the design specifications for the MechaCar suspension co
 
 But based on each lot summary, lot 1 and lot 2 have less than 100 pounds as variance (0.98 and 7.47 respectively). While lot 3 would not meet design specification with a variance equal to 170.
 
+## T-Tests on Suspension Coils
+
+## Study Design: MechaCar vs Competition
+
+There are several ways of quantifying the difference of performance between MechaCar against its competition.
+But the most important metrics are cost, fuel efficiency, and horse power. 
